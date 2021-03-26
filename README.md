@@ -1,2 +1,2 @@
 # askers
-//donde esta los askers
+//donde están los askers
